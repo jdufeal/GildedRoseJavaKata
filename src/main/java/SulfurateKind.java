@@ -14,5 +14,7 @@ public class SulfurateKind extends Item implements ISulfurateKind {
         if(getQuality()=0){
 
         }
+
+        if
     }
 }
